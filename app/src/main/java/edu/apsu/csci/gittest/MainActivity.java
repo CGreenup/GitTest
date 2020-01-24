@@ -12,7 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("Test", "This is a test");
-        Log.i("Test", "This is another test");
+        Log.i("Test", "This is second test");
         Log.i("Test", "This is third test");
+        Log.i("Test", "This is fourth test");
     }
 }
