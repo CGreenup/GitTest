@@ -16,5 +16,9 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Test", "This is third test");
         Log.i("Test", "This is fourth test");
         Log.i("Test", "This is fifth test");
+        Log.i("Test", "This is sixth test");
+        
+       Log.i("Test", "This is seventh test");
+       
     }
 }
